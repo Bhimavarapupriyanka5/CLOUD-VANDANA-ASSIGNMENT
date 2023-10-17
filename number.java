@@ -1,18 +1,9 @@
 // Enter a Roman Number as input and convert it to an integer.
 
 package number;
-
-
-	import java.util.HashMap;
+import java.util.HashMap;
 	public class number {
-		
-
-
-	
-		
-
-
-		    public static int romanToInt(String s) {
+		public static int romanToInt(String s) {
 		        HashMap<Character, Integer> romanValues = new HashMap<>();
 		        romanValues.put('I', 1);
 		        romanValues.put('V', 5);
