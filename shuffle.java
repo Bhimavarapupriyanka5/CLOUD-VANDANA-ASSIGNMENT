@@ -2,8 +2,6 @@
 package java2;
 import java.util.ArrayList;
 import java.util.Collections;
-
-
 public class shuffle {
 	public static void main(String[] args) {
 		ArrayList<Integer> arrayList=new ArrayList<>();
