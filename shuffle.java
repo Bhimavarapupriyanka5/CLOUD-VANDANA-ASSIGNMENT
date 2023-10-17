@@ -1,5 +1,4 @@
-//import java.util.ArrayList;
-//import java.util.Collections;
+// Create an array with the values (1,2,3,4,5,6,7) and shuffle it.
 package java2;
 import java.util.ArrayList;
 import java.util.Collections;
