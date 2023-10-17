@@ -6,10 +6,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class pangram {
-	
-
-
-	    public static void main(String[] args) {
+	public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);
 	        System.out.println("Enter a sentence: ");
 	        String input = scanner.nextLine();
