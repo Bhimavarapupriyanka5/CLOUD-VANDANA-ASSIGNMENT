@@ -1,3 +1,5 @@
+// Check if the input is pangram or not.(A pangram is a sentence that contains all the alphabets from A to Z)
+
 package alphabets;
 import java.util.HashSet;
 import java.util.Scanner;
